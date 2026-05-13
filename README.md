@@ -1,10 +1,10 @@
 # Benjamin Greenstein | Project Portfolio
-**Economics & Entrepreneurship Student @ Reichman University | Data Science Specialist**
+**Economics & Entrepreneurship with Data Science Student at Reichman University**
 
 ---
 
 ## 👋 About Me
-I am an Economics and Entrepreneurship student specializing in Data Science at Reichman University. Currently, I support investment and business development functions at **The Betesh Group**, where I focus on building multi-source deal-flow databases and automating workflows using AI. I am passionate about applying analytical and commercial thinking to improve operational efficiency and drive business performance.
+I am an Economics, Entrepreneurship and Data Science student at Reichman University. Currently, I support investment and business development functions at **The Betesh Group**, where I focus on building multi-source deal-flow databases and automating workflows using AI. I am passionate about applying analytical and commercial thinking to improve operational efficiency and drive business performance.
 
 ---
 
