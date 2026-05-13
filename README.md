@@ -1,40 +1,40 @@
 # Benjamin Greenstein | Project Portfolio
+
 **Economics & Entrepreneurship with Data Science Student at Reichman University**
 
 ---
 
 ## 👋 About Me
-I am an Economics, Entrepreneurship and Data Science student at Reichman University. Currently, I support investment and business development functions at **The Betesh Group**, where I focus on building multi-source deal-flow databases and automating workflows using AI. I am passionate about applying analytical and commercial thinking to improve operational efficiency and drive business performance.
+I am an **Economics, Entrepreneurship, and Data Science student** at Reichman University. I specialise in applying analytical and commercial thinking to improve operational efficiency and drive business performance. My experience includes building multi-source deal-flow databases and automating workflows using AI to prioritise and streamline professional tasks.
 
 ---
 
 ## 🚀 Interactive Projects (Live Demos)
 
 ### 📲 OlehGo: Bureaucracy Navigator
-* **The Problem:** Navigating complex governmental and bureaucratic processes independently.
-* **The Solution:** A mobile-first interface designed to provide step-by-step guidance through bureaucratic tasks.
-* **[🔗 Launch Live App](YOUR_LOVABLE_LINK)** | **[📂 View Code](YOUR_GITHUB_LINK)**
+*   **The Problem:** Navigating complex governmental and bureaucratic processes independently.
+*   **The Solution:** A mobile-first interface designed to provide step-by-step guidance through bureaucratic tasks.
+*   🔗 [**Launch Live App**](https://github.com/bgreenstein23) | 📂 [**View Code**](https://github.com/bgreenstein23)
 
-### 🧾 Gemini-Powered Budget Tracker 
-* **The Tech:** Python, Gemini API, Google Colab.
-* **The Logic:** Employs AI to extract itemized lists and pricing from images/PDFs of receipts to automate expense tracking.
-* **[🔗 Open Interactive Notebook](YOUR_COLAB_LINK)**
+### 📊 Gemini-Powered Budget Tracker (SnapBudget)
+*   **The Tech:** Python, Gemini API, Google Colab.
+*   **The Logic:** Employs AI to extract itemised lists and pricing from images or PDFs of receipts to automate expense tracking.
+*   **Key Feature:** Specifically developed to handle OCR for Hebrew character encoding and complex budget calculations.
+*   🔗 [**Open Interactive Notebook**](https://github.com/bgreenstein23)
 
-### 🏗️ Elevator Floor Indicator (Arduino)
-* **Prototype:** A hardware-software system using an Arduino-controlled rotator to dynamically indicate floor levels.
-* **[📺 Watch Demo Video](YOUR_VIDEO_LINK)**
-
----
-
-## 💼 Work Experience
-* **The Betesh Group** | Data Analyst, VC & BD | 2024 – Present
-* **IDF Lone Soldier** | 890 Battalion, Paratroopers | 2023 – 2024
+### 🎮 Game Replicas & Simulations
+*   **Prototypes:** Created interactive simulations, including a Formula 1 track drawing tool and a "Settlers of Catan" style replica.
+*   **Purpose:** These projects demonstrate robust Python logic and the ability to build functional prototypes from scratch.
 
 ---
 
-## 🛠️ Key Skills
-* **Programming & Tools:** Python (Data Analysis), SQL, Arduino, Microsoft Excel (Advanced), Monday.com.
-* **Languages:** English (Native), Hebrew (Fluent).
+## 🛠️ Technical Toolkit
+*   **Programming:** Python (Data cleaning, visualisation, and application development).
+*   **Data Science:** Outlier analysis and processing biological datasets.
+*   **Hardware:** Electronic prototyping, including an Arduino-based elevator floor indicator.
+*   **Languages:** English & Hebrew (Professional proficiency).
 
 ---
-[LinkedIn](https://www.linkedin.com/in/benjamin-greenstein-767892335) | [Email](mailto:bgreenstein03@gmail.com)
+
+## 📫 Connect with Me
+*   💼 [**LinkedIn**](https://www.linkedin.com/in/benjamin-greenstein/)
