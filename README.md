@@ -5,9 +5,9 @@
 ---
 
 ## 👋 About Me
-[cite_start]I am an Economics and Entrepreneurship student specialising in Data Science at Reichman University[cite: 8]. Originally from Australia, I moved to Israel to pursue my degree and build a career at the intersection of commercial strategy and technical execution.
+I am an Economics and Entrepreneurship student specialising in Data Science at Reichman University. Originally from Australia, I moved to Israel to pursue my degree and build a career at the intersection of commercial strategy and technical execution.
 
-[cite_start]I am passionate about applying analytical thinking to improve operational efficiency[cite: 6]. [cite_start]My professional background includes supporting investment and business development functions at The Betesh Group, where I built multi-source deal-flow databases and implemented automated, AI-based workflows[cite: 14, 15, 16]. Outside of my technical work, I am a keen rugby player and captain, having represented Australia at the Maccabiah Games.
+I am passionate about applying analytical thinking to improve operational efficiency. My professional background includes supporting investment and business development functions at The Betesh Group, where I built multi-source deal-flow databases and implemented automated, AI-based workflows. Outside of my technical work, I am a keen rugby player and captain, having represented Australia at the Maccabiah Games.
 
 ---
 
@@ -32,9 +32,9 @@
 
 ## 🛠️ Technical Toolkit
 * **Programming & Data:** Python (Visualisation, data cleaning), Microsoft Excel (Automated workflows), and Database Management.
-* [cite_start]**Workflow & Automation:** Monday.com project tracking and AI-driven workflow optimisation[cite: 11, 18].
+* **Workflow & Automation:** Monday.com project tracking and AI-driven workflow optimisation.
 * **Hardware:** Electronic prototyping, including an Arduino-based elevator floor indicator.
-* [cite_start]**Languages:** English (Native) and Hebrew (Fluent)[cite: 30].
+* **Languages:** English (Native) and Hebrew (Fluent).
 
 ---
 
