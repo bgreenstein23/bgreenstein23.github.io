@@ -16,13 +16,12 @@ I am passionate about applying analytical thinking to improve operational effici
 ### 📲 OlehGo: Bureaucracy Navigator
 * **The Problem:** Navigating complex governmental and bureaucratic processes independently.
 * **The Solution:** A mobile-first interface designed to provide step-by-step guidance through bureaucratic tasks.
-* 🔗 [**Launch Live App**]([https://github.com/bgreenstein23)](https://oleh-go.vercel.app/) | 📂 [**View Code**](https://github.com/bgreenstein23)
-
-### 📊 Gemini-Powered Budget Tracker (SnapBudget)
+* 🔗 [**Launch Live App**]([https://github.com/bgreenstein23)](https://oleh-go.vercel.app/)
+### 📊 Lovable Receipt Scanner and Budget Tracker (SmartSpend AI)
 * **The Tech:** Python, Gemini API, and Google Colab.
 * **The Logic:** Employs AI to extract itemised lists and pricing from images or PDFs of receipts to automate expense tracking.
 * **Key Feature:** Specifically developed to handle OCR for Hebrew character encoding and complex budget calculations.
-* 🔗 [**Open Interactive Notebook**](https://github.com/bgreenstein23)
+* 🔗 [**Launch Live App**]([https://github.com/bgreenstein23)](https://aismartspend.lovable.app)
 
 ### 🎮 Game Replicas & Simulations
 * **Prototypes:** Created interactive simulations, including a Formula 1 track drawing tool and a "Settlers of Catan" style replica.
