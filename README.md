@@ -62,8 +62,4 @@ Beyond data, I am building a technical portfolio that spans full-stack web appli
 
 * **English:** Native
 * **Hebrew:** Fluent
----
 
-## 🌍 Languages
-* [cite_start]**English:** Native [cite: 41]
-* [cite_start]**Hebrew:** Fluent [cite: 41]
