@@ -23,6 +23,11 @@ I am passionate about applying analytical thinking to improve operational effici
 * **Key Feature:** Specifically developed to handle OCR for Hebrew character encoding and complex budget calculations.
 * 🔗 **[Launch Live App](https://aismartspend.lovable.app)**
 
+* ### 🏎️ F1 Lap Time Predictor
+* [cite_start]**The Tech:** Python, FastF1 API, and Google Colab[cite: 28].
+* [cite_start]**The Purpose:** A machine learning model that predicts Formula 1 lap times using historical race data, applying statistical modelling and feature engineering[cite: 29].
+* 🔗 **[View Notebook Code](./F1LapTimePredictor.ipynb)**
+
 ### 🎮 Game Replicas & Simulations
 * **Prototypes:** Created interactive simulations, including a Formula 1 track drawing tool and a "Settlers of Catan" style replica.
 * **Purpose:** These projects demonstrate robust Python logic and the ability to build functional prototypes from scratch.
