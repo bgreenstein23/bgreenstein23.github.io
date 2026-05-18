@@ -37,14 +37,13 @@ Beyond data, I am building a technical portfolio that spans full-stack web appli
 ### 🏗️ Shabbat Elevator Indicator (Patent Pending)
 * Designed and built an **Arduino-powered** elevator floor indicator system operating within Shabbat restrictions.
 * Includes a working prototype where a rotator changes the displayed floor based on embedded code.
-* 🔗 [View Arduino Source Code](./SEI1.ino)
-* 📽️ [Watch Prototype Demonstration](./ShabbatElevatorIndicatorPrototype-ezgif.com-optimize%20copy.gif)
+* 🔗 [**View Arduino Source Code**](./SEI1.ino)
+* 📽️ [**Watch Prototype Demonstration**](./ShabbatElevatorIndicatorPrototype-ezgif.com-optimize%20copy.gif)
 
 ### 📑 Professional Wedding Registry
 * Built a custom functional wedding registry tool using **Excel and embedded scripting** for a real-world client.
-* 📸 [View Registry Interface](./registry-preview.png)
-* 🔗 [View Scripting Logic](./WeddingRegistryScript.txt)
-
+* 📸 [**View Registry Interface**](./registry-preview.png)
+* 🔗 [**View Scripting Logic**](./WeddingRegistryScript.txt)
 ---
 
 ## ⚙️ Technical Toolkit
