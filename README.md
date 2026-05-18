@@ -16,7 +16,7 @@ I am passionate about applying analytical thinking to improve operational effici
 ### 📲 OlehGo: Bureaucracy Navigator
 * **The Problem:** Navigating complex governmental and bureaucratic processes independently.
 * **The Solution:** A mobile-first interface designed to provide step-by-step guidance through bureaucratic tasks.
-* 🔗 [**Launch Live App**]([https://github.com/bgreenstein23)](https://oleh-go.vercel.app/)
+* 🔗 [**Launch Live App**([https://github.com/bgreenstein23)](https://oleh-go.vercel.app/)
 ### 📊 Lovable Receipt Scanner and Budget Tracker (SmartSpend AI)
 * **The Tech:** Python, Gemini API, and Google Colab.
 * **The Logic:** Employs AI to extract itemised lists and pricing from images or PDFs of receipts to automate expense tracking.
