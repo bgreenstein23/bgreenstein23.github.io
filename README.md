@@ -28,7 +28,7 @@ Beyond data, I am building a technical portfolio that spans full-stack web appli
 ### 🏎️ F1 Lap Time Predictor
 * **The Tech:** **Python**, **FastF1 API**, and **Google Colab**.
 * **The Purpose:** A machine learning model that predicts Formula 1 lap times using historical race data, applying statistical modelling and feature engineering.
-* 🔗 **[View Notebook Code](./F1LapTimePredictor.ipynb)**
+* 🔗 **[Open Project in Google Colab](https://colab.research.google.com/github/bgreenstein23/bgreenstein23.github.io/blob/main/F1LapTimePredictor.ipynb)**
 
 ---
 
