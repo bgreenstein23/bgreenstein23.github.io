@@ -44,6 +44,7 @@ Beyond data, I am building a technical portfolio that spans full-stack web appli
 * Built a custom functional wedding registry tool using **Excel and embedded scripting** for a real-world client.
 * 📸 [**View Registry Interface**](./registry-preview.png)
 * 🔗 [**View Scripting Logic**](./WeddingRegistryScript.txt)
+
 ---
 
 ## ⚙️ Technical Toolkit
