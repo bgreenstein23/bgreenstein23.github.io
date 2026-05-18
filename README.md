@@ -59,26 +59,9 @@ Beyond data, I am building a technical portfolio that spans full-stack web appli
 ---
 
 ## 🌍 Languages
+
 * **English:** Native
-* **Hebrew:** Fluent| **AI & Automation** | Claude, ChatGPT, Gemini, Zapier, Prompt Engineering |
-| **Dev & Build Tools** | GitHub, Vercel, Lovable, Arduino |
-| **Analytics & Modelling** | Econometrics, Statistical Modelling, Machine Learning, Business Intelligence |
-| **Business & Finance** | Financial Modelling, FinTech, Product Management |
-
----
-
-## 🌍 Languages
-* [cite_start]**English:** Native [cite: 41]
-* [cite_start]**Hebrew:** Fluent [cite: 41]| **Business & Finance** | Financial Modelling, FinTech, Product Management| **Analytics & Modelling** | Econometrics, Machine Learning, Business Intelligence |
-| **Business & Finance** | Financial Modelling, FinTech, Product Management |
-
----
-
-## 🌍 Languages
-* **English:** Native
-* **Hebrew:** Fluent| **Analytics & Modelling** | [cite_start]Econometrics, Machine Learning, Business Intelligence [cite: 10] |
-| **Business & Finance** | [cite_start]Financial Modelling, FinTech, Product Management [cite: 10] |
-
+* **Hebrew:** Fluent
 ---
 
 ## 🌍 Languages
