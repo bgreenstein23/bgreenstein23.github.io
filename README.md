@@ -16,7 +16,7 @@ I am passionate about applying analytical thinking to improve operational effici
 ### 📲 OlehGo: Bureaucracy Navigator
 * **The Problem:** Navigating complex governmental and bureaucratic processes independently.
 * **The Solution:** A mobile-first interface designed to provide step-by-step guidance through bureaucratic tasks.
-* 🔗 [**Launch Live App**](https://github.com/bgreenstein23) | 📂 [**View Code**](https://github.com/bgreenstein23)
+* 🔗 [**Launch Live App**]([https://github.com/bgreenstein23)](https://oleh-go.vercel.app/) | 📂 [**View Code**](https://github.com/bgreenstein23)
 
 ### 📊 Gemini-Powered Budget Tracker (SnapBudget)
 * **The Tech:** Python, Gemini API, and Google Colab.
