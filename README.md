@@ -6,7 +6,7 @@
 ---
 
 ## 👋 About Me
-I am an Economics and Entrepreneurship student at **Reichman University**, specialising in **Data Science**. My professional background includes driving analytical and operational improvements in venture capital, specifically through building structured databases and automating AI-based workflows.
+I am an **Economics and Entrepreneurship with Data Science** student at **Reichman University**. My professional background includes driving analytical and operational improvements in venture capital, specifically through building structured databases and automating AI-based workflows.
 
 Beyond data, I am building a technical portfolio that spans full-stack web applications, machine learning, and Arduino hardware projects.
 
@@ -50,6 +50,7 @@ Beyond data, I am building a technical portfolio that spans full-stack web appli
 | **AI & Automation** | Claude, ChatGPT, Gemini, Zapier, Prompt Engineering |
 | **Dev & Build Tools** | GitHub, Vercel, Lovable, Arduino |
 | **Analytics & Modelling** | Econometrics, Machine Learning, Business Intelligence |
+| **Business & Finance** | Financial Modelling, FinTech, Product Management| **Analytics & Modelling** | Econometrics, Machine Learning, Business Intelligence |
 | **Business & Finance** | Financial Modelling, FinTech, Product Management |
 
 ---
