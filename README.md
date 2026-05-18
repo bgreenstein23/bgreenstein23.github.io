@@ -1,13 +1,14 @@
 # Benjamin Greenstein | Project Portfolio
 
-**Economics & Entrepreneurship with Data Science Student at Reichman University**
+### Economics & Entrepreneurship | Data Science | Venture Capital
+**[LinkedIn](https://linkedin.com/in/benjamingreenstein)** | **Herzliya, Israel**
 
 ---
 
 ## 👋 About Me
-I am an Economics and Entrepreneurship student specialising in Data Science at Reichman University. Originally from Australia, I moved to Israel to pursue my degree and build a career at the intersection of commercial strategy and technical execution.
+I am an Economics and Entrepreneurship student at **Reichman University**, specialising in **Data Science**. My professional background includes driving analytical and operational improvements in venture capital, specifically through building structured databases and automating AI-based workflows.
 
-I am passionate about applying analytical thinking to improve operational efficiency. My professional background includes supporting investment and business development functions at The Betesh Group, where I built multi-source deal-flow databases and implemented automated, AI-based workflows. Outside of my technical work, I am a keen rugby player and captain, having represented Australia at the Maccabiah Games.
+Beyond data, I am building a technical portfolio that spans full-stack web applications, machine learning, and Arduino hardware projects.
 
 ---
 
@@ -15,32 +16,22 @@ I am passionate about applying analytical thinking to improve operational effici
 
 ### 📲 OlehGo: Bureaucracy Navigator
 * **The Problem:** Navigating complex governmental and bureaucratic processes independently.
-* **The Solution:** A mobile-first interface designed to provide step-by-step guidance through bureaucratic tasks.
+* **The Solution:** A full-stack application providing intelligent, context-aware guidance for immigrants in Israel, leveraging the **Claude API**.
 * 🔗 **[Launch Live App](https://oleh-go.vercel.app/)**
-### 📊 Lovable Receipt Scanner and Budget Tracker (SmartSpend AI)
-* **The Tech:** Python, Gemini API, and Google Colab.
-* **The Logic:** Employs AI to extract itemised lists and pricing from images or PDFs of receipts to automate expense tracking.
-* **Key Feature:** Specifically developed to handle OCR for Hebrew character encoding and complex budget calculations.
+
+### 📊 SmartSpend AI: Receipt Scanner & Budget Tracker
+* **The Tech:** Built with **Lovable** and Python, featuring AI-powered OCR.
+* **The Logic:** An end-to-end personal finance tool that extracts data from receipt images to automate expense tracking and budget categorisation.
 * 🔗 **[Launch Live App](https://aismartspend.lovable.app)**
 
-* ### 🏎️ F1 Lap Time Predictor
-* [cite_start]**The Tech:** Python, FastF1 API, and Google Colab[cite: 28].
-* [cite_start]**The Purpose:** A machine learning model that predicts Formula 1 lap times using historical race data, applying statistical modelling and feature engineering[cite: 29].
+### 🏎️ F1 Lap Time Predictor
+* **The Tech:** **Python**, **FastF1 API**, and **Google Colab**.
+* **The Purpose:** A machine learning model that predicts Formula 1 lap times using historical race data, applying statistical modelling and feature engineering.
 * 🔗 **[View Notebook Code](./F1LapTimePredictor.ipynb)**
 
-### 🎮 Game Replicas & Simulations
-* **Prototypes:** Created interactive simulations, including a Formula 1 track drawing tool and a "Settlers of Catan" style replica.
-* **Purpose:** These projects demonstrate robust Python logic and the ability to build functional prototypes from scratch.
-
 ---
 
-## 🛠️ Technical Toolkit
-* **Programming & Data:** Python (Visualisation, data cleaning), Microsoft Excel (Automated workflows), and Database Management.
-* **Workflow & Automation:** Monday.com project tracking and AI-driven workflow optimisation.
-* **Hardware:** Electronic prototyping, including an Arduino-based elevator floor indicator.
-* **Languages:** English (Native) and Hebrew (Fluent).
+## 🛠️ Other Technical Projects
 
----
-
-## 📫 Connect with Me
-* 💼 [**LinkedIn**](https://www.linkedin.com/in/benjamin-greenstein-767892335)
+### 🏗️ Shabbat Elevator (Hardware Automation)
+* Designed and built an **Arduino-powered
