@@ -45,6 +45,8 @@ Beyond data, I am building a technical portfolio that spans full-stack web appli
 * 📸 [View Registry Interface](./registry-preview.png)
 * 🔗 [View Scripting Logic](./WeddingRegistryScript.txt)
 
+---
+
 ## ⚙️ Technical Toolkit
 
 | Category | Tools & Technologies |
