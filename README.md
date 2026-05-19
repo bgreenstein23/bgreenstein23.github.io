@@ -41,7 +41,7 @@ Beyond data, I am building a technical portfolio that spans full-stack web appli
 * 📽️ [**Watch Prototype Demonstration**](./ShabbatElevatorIndicatorPrototype-ezgif.com-optimize%20copy.gif)
 
 ### 📑 Professional Wedding Registry
-* Built a custom functional wedding registry tool using **Excel and embedded scripting** for a real-world client.
+* Built a custom functional wedding registry tool using **Excel and embedded scripting**.
 * 📸 [**View Registry Interface**](./registry-preview.png)
 * 🔗 [**View Scripting Logic**](./WeddingRegistryScript.txt)
 
